@@ -135,3 +135,8 @@ Here is a table of the variables and their descriptions:
 
 \* is initially set to `undefined`, and must be set before the object is used.
 
+### Miscellaneous
+
+To enable hard collisions between `o_movement` objects, simply make `o_movement` a child of `o_movement_collision`
+
+NOTE! Due to the nature of hard collisions expected to be integer bounded, these hard collisions may not appear 'perfect'.
