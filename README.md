@@ -1,5 +1,7 @@
 # GML-system-movement
 
+Maintained by: Army Armbuster
+
 Thank you for your interest in my movement system.
 
 This is a hybrid collision movement system, consisting of object collisions and/or tileset collisions.
